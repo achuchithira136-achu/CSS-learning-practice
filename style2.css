@@ -1,0 +1,17 @@
+.header{
+    width: 100%;
+    background: orange;
+    height: 200px;
+}
+.left-section{
+    width: 200px;
+    float: lefft;
+    height: 400px;
+    background: orchid;
+}
+.right-section{
+    width: 1000px;
+    float: lefft;
+    height: 400px;
+    background: grey;
+}
